@@ -11,6 +11,7 @@ body {
 img {
   max-width: 100%;
 }
+
 .container {
   padding: 15px;
   background-color: hsl(0, 0%, 100%);
@@ -53,28 +54,19 @@ img {
   color: hsl(47, 88%, 63%);
   cursor: pointer;
 }
-/* .greg-img {
-  border-radius: 50%;
-  margin-top: 10px;
-  width: 10%;
-  max-width: 50px;
-} */
-/* .greg-hooper {
-  margin-top: 5px;
-  font-weight: 800;
-  width: 50px;
-  font-size: 13px;
-} */
+
 .html-and-css-foundation-quote {
   color: hsl(0, 0%, 42%);
   font-weight: 500;
   font-size: 15px;
   line-height: 1.5;
 }
+
 @font-face {
   font-family: "Figtree";
   src: url(/assets/fonts/Figtree-VariableFont_wght.ttf);
 }
+
 .profile-info {
   display: flex;
   align-items: center;
@@ -85,14 +77,17 @@ img {
 .greg-img {
   width: 30px;
 }
+
 .greg-hooper {
   font-weight: 800;
   font-size: 13px;
 }
+
 .attribution {
   font-size: 11px;
   text-align: center;
 }
+
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
